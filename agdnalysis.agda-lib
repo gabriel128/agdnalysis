@@ -1,0 +1,3 @@
+name: agdnalysis
+depend: standard-library
+include: src
